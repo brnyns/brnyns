@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 10 Apr 2025 20:10:55 at https://www.ionos.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.ionos.com/ -O1 "C:\Users\Lenovo\Downloads\homework\ionos" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:20:06	Warning: 	Unable to test https://www.ionos.com/mywebsite-now-templates?template=tattoo&cHash=f63919cb8dae93195251e92a9bb6db48 (loop to same filename)
+20:20:06	Warning: 	link is probably looping, type unknown, aborting: https://www.ionos.com/mywebsite-now-templates?template=tattoo&cHash=f63919cb8dae93195251e92a9bb6db48
+20:23:08	Error: 	Exit requested by shell or user
+20:23:08	Warning: 	File not added due to mirror cancel: var.uicdn.net/shopsshort/privacy/v1/bundle.js
+20:23:08	Warning: 	Found for https://www.ionos.com/terms-gtc/terms-privacy/
+20:23:08	Warning: 	File has moved from https://www.ionos.com/terms-gtc/terms-privacy/ to https://www.ionos.com/terms-gtc/privacy-policy/
+20:23:38	Warning: 	Moved Permanently for https://www.ionos.com/digitalguide/domains/domain-news/domain-registration-behind-icann-and-neustar/
+20:23:38	Warning: 	File has moved from https://www.ionos.com/digitalguide/domains/domain-news/domain-registration-behind-icann-and-neustar/ to https://www.ionos.com/digitalguide/domains/domain-news/domain-registration-difference-between-icann-and-registry-operators/
+20:24:09	Error: 	"Not Found" (404) at link https://www.ionos.com/websites/"https://cs-us.uicdn.net/fileadmin/ionos-core/Visuals/35976-nlement-background-product-advisor-dark.svg" (from https://www.ionos.com/websites/launch-your-website)
+20:25:21	Error: 	"Not Found" (404) at link https://www.ionos.com/digitalguide/tags/e-commerce/url (from https://www.ionos.com/digitalguide/tags/e-commerce/)
+20:26:28	Warning: 	Moved Permanently for https://www.ionos.com/pt-br/
+20:26:28	Warning: 	File has moved from https://www.ionos.com/pt-br/ to https://www.ionos.com/pt-br
+20:26:46	Error: 	"Not Found" (404) at link https://www.ionos.com/help/server-cloud-infrastructure/erste-schritte-vps/installing-plesk-vps-windows-and-vps-linux/ (from https://www.ionos.com/servers/vps)
+20:27:58	Error: 	"Not Found" (404) at link https://www.ionos.com/help/t3://page?uid=current (from https://www.ionos.com/help/index.php?id=5333)
